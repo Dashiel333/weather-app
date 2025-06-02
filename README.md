@@ -1,4 +1,4 @@
-# weather-app
+https://dashiel333.github.io/weather-app/
 
 
 Simple web application built with HTML, CSS, and JavaScript that allows users to enter the name of a city and get the current weather using the OpenWeatherMap API.
