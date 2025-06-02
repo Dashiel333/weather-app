@@ -1,0 +1,11 @@
+{
+    "manifest.version": 3,
+    "name": "weather tracker",
+    "version": "1.0",
+    "description": "Check the wether of your city",
+    "action": {
+        "default popup": "index.html",
+        "default_icon": "weather.png"
+    },
+    "premissiom": {"geolocation"}
+}
