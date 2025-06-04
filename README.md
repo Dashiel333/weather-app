@@ -1,26 +1,37 @@
+Live Demo
+
 https://dashiel333.github.io/weather-app/
 
 
-Simple web application built with HTML, CSS, and JavaScript that allows users to enter the name of a city and get the current weather using the OpenWeatherMap API.
+# 🌤️ Weather App
 
-🔧 Features
-Input a city name to get current weather data
+A simple and clean web application built with **HTML**, **CSS**, and **JavaScript** that allows users to enter the name of a city and receive real-time weather data using the **OpenWeatherMap API**.
 
-Uses fetch() and asynchronous JavaScript
+## 🔧 Features
 
-Displays temperature and weather condition
+- Input a city name to fetch current weather information  
+- Uses `fetch()` with asynchronous JavaScript (async/await)  
+- 🌡Displays temperature and general weather condition  
+- Automatically converts temperature from Kelvin to Celsius  
+- Basic error handling for invalid city names or network errors  
 
-Converts temperature from Kelvin to Celsius
+## 🛠️ Technologies Used
 
-Basic error handling for incorrect input
+- **HTML** – for structure  
+- **CSS** – for basic styling  
+- **JavaScript** – for dynamic functionality  
+- **OpenWeatherMap API** – for retrieving weather data  
 
-📁 Technologies Used
-HTML
+## 📡 Live Demo
 
-CSS
+🔗 [Click here to view the app](https://dashiel333.github.io/weather-app/)
 
-JavaScript
+---
 
-OpenWeatherMap API
+## 📌 Note
 
+This project is meant to be practiced:
+- API integration
+- DOM manipulation
+- Asynchronous JavaScript
 
